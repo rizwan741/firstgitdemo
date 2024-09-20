@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi rizwan
+=======
+hi rizwan
+hello world
+>>>>>>> 6e05554 (for branching)
